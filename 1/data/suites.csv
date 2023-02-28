@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Feb 28 09:27:13 GMT 2023","Tue Feb 28 09:27:13 GMT 2023","17","","CoffeMachineTest","","CoffeMachineTest","createCoffeeTest","createCoffeeTest()",""
